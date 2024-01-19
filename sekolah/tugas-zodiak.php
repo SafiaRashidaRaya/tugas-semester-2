@@ -2,6 +2,7 @@
     <input type="text" name="bln" placeholder="Bulan ke-">
     <input type="text" name="tgl" placeholder="Tanggal ke-">
     <input type="submit" name="tombol" value="Tentukan">
+    <!-- <button type="submit">Tentukan</button> -->
 </form>
 
 <?php 
